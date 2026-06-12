@@ -25,3 +25,5 @@ print (conutry)
 # Print them on the same line in a full sentence.
 pet = kitty cat
 age_pet = 1 year
+type = siamese
+print ("my pets name is" , pet , "its age is" , age_pet , "its type is" , type)
